@@ -1,2 +1,2 @@
 # tdc
-Various and sundry
+Web development projects; sites, apps, etc.
